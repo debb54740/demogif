@@ -1,0 +1,39 @@
+*{
+    /*margin: 0;
+    padding: 0;*/
+}
+ 
+header{
+    
+    width: 90%;
+    margin: auto;
+    margin-bottom: 0;
+    
+}
+
+#nav{
+    background-color: coral;    
+    display: flex;
+  
+}
+
+.nav__links{
+    background-color: crimson;
+    width: 15%;
+    height: 3%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+main{
+box-sizing: border-box;
+    width: 80%;
+    height: 75vh;
+    background-color: chocolate;
+    margin-top: 0%;
+padding: 2;
+  
+}
